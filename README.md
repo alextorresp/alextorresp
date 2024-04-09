@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🤗 Welcome to my GitHub! 🌟
+My name is Alex, and I am a proud Mexican-American from the Central Valley of California 🌾 🐄
+I am passionate about web development and helping others 👩‍💻 🫴
+My goal is to create projects and applications that streamline peoples' experiences and processes 🦾 🛩
+I believe there is always a way to achieve a high blend of functionailty and visual aesthetic without sacrifycing one or the other 🔩 🫧
 
 <!--
 **alextorresp/alextorresp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
